@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manev\\OneDrive\\Documents\\projects\\be-task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28F9DBFC-3DE6-45E4-BB38-9AEB12019DBE}|GameSessionService.Api\\GameSessionService.Api.csproj|c:\\users\\manev\\onedrive\\documents\\projects\\be-task\\gamesessionservice.api\\middleware\\correlationidmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F9DBFC-3DE6-45E4-BB38-9AEB12019DBE}|GameSessionService.Api\\GameSessionService.Api.csproj|solutionrelative:gamesessionservice.api\\middleware\\correlationidmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F9DBFC-3DE6-45E4-BB38-9AEB12019DBE}|GameSessionService.Api\\GameSessionService.Api.csproj|c:\\users\\manev\\onedrive\\documents\\projects\\be-task\\gamesessionservice.api\\models\\createsessionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F9DBFC-3DE6-45E4-BB38-9AEB12019DBE}|GameSessionService.Api\\GameSessionService.Api.csproj|solutionrelative:gamesessionservice.api\\models\\createsessionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F9DBFC-3DE6-45E4-BB38-9AEB12019DBE}|GameSessionService.Api\\GameSessionService.Api.csproj|c:\\users\\manev\\onedrive\\documents\\projects\\be-task\\gamesessionservice.api\\repositories\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F9DBFC-3DE6-45E4-BB38-9AEB12019DBE}|GameSessionService.Api\\GameSessionService.Api.csproj|solutionrelative:gamesessionservice.api\\repositories\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F9DBFC-3DE6-45E4-BB38-9AEB12019DBE}|GameSessionService.Api\\GameSessionService.Api.csproj|c:\\users\\manev\\onedrive\\documents\\projects\\be-task\\gamesessionservice.api\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F9DBFC-3DE6-45E4-BB38-9AEB12019DBE}|GameSessionService.Api\\GameSessionService.Api.csproj|solutionrelative:gamesessionservice.api\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F9DBFC-3DE6-45E4-BB38-9AEB12019DBE}|GameSessionService.Api\\GameSessionService.Api.csproj|c:\\users\\manev\\onedrive\\documents\\projects\\be-task\\gamesessionservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F9DBFC-3DE6-45E4-BB38-9AEB12019DBE}|GameSessionService.Api\\GameSessionService.Api.csproj|solutionrelative:gamesessionservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F9DBFC-3DE6-45E4-BB38-9AEB12019DBE}|GameSessionService.Api\\GameSessionService.Api.csproj|c:\\users\\manev\\onedrive\\documents\\projects\\be-task\\gamesessionservice.api\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F9DBFC-3DE6-45E4-BB38-9AEB12019DBE}|GameSessionService.Api\\GameSessionService.Api.csproj|solutionrelative:gamesessionservice.api\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateSessionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\manev\\OneDrive\\Documents\\projects\\be-task\\GameSessionService.Api\\Models\\CreateSessionRequest.cs",
+              "RelativeDocumentMoniker": "GameSessionService.Api\\Models\\CreateSessionRequest.cs",
+              "ToolTip": "C:\\Users\\manev\\OneDrive\\Documents\\projects\\be-task\\GameSessionService.Api\\Models\\CreateSessionRequest.cs",
+              "RelativeToolTip": "GameSessionService.Api\\Models\\CreateSessionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:47:09.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CorrelationIdMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\manev\\OneDrive\\Documents\\projects\\be-task\\GameSessionService.Api\\Middleware\\CorrelationIdMiddleware.cs",
+              "RelativeDocumentMoniker": "GameSessionService.Api\\Middleware\\CorrelationIdMiddleware.cs",
+              "ToolTip": "C:\\Users\\manev\\OneDrive\\Documents\\projects\\be-task\\GameSessionService.Api\\Middleware\\CorrelationIdMiddleware.cs",
+              "RelativeToolTip": "GameSessionService.Api\\Middleware\\CorrelationIdMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:44:02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "C:\\Users\\manev\\OneDrive\\Documents\\projects\\be-task\\GameSessionService.Api\\Services\\SessionService.cs",
+              "RelativeDocumentMoniker": "GameSessionService.Api\\Services\\SessionService.cs",
+              "ToolTip": "C:\\Users\\manev\\OneDrive\\Documents\\projects\\be-task\\GameSessionService.Api\\Services\\SessionService.cs",
+              "RelativeToolTip": "GameSessionService.Api\\Services\\SessionService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwLIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:41:37.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\manev\\OneDrive\\Documents\\projects\\be-task\\GameSessionService.Api\\Repositories\\SessionRepository.cs",
+              "RelativeDocumentMoniker": "GameSessionService.Api\\Repositories\\SessionRepository.cs",
+              "ToolTip": "C:\\Users\\manev\\OneDrive\\Documents\\projects\\be-task\\GameSessionService.Api\\Repositories\\SessionRepository.cs",
+              "RelativeToolTip": "GameSessionService.Api\\Repositories\\SessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:41:34.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionsController.cs",
+              "DocumentMoniker": "C:\\Users\\manev\\OneDrive\\Documents\\projects\\be-task\\GameSessionService.Api\\Controllers\\SessionsController.cs",
+              "RelativeDocumentMoniker": "GameSessionService.Api\\Controllers\\SessionsController.cs",
+              "ToolTip": "C:\\Users\\manev\\OneDrive\\Documents\\projects\\be-task\\GameSessionService.Api\\Controllers\\SessionsController.cs",
+              "RelativeToolTip": "GameSessionService.Api\\Controllers\\SessionsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAywE4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:24:30.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manev\\OneDrive\\Documents\\projects\\be-task\\GameSessionService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "GameSessionService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\manev\\OneDrive\\Documents\\projects\\be-task\\GameSessionService.Api\\Program.cs",
+              "RelativeToolTip": "GameSessionService.Api\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:11:50.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
